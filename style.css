@@ -1,0 +1,55 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey;
+}
+.bodytrave
+{
+    border: 0.9px solid black;
+    padding: 3px;
+}
+.bodytrave img
+{
+    width:100%;
+}
+.bg123
+{
+    padding:15px;
+}
+.bg123 i
+{
+    float:right;
+}
+.bg222
+{
+    padding:15px;
+}
+.bg222 i
+{
+    float:right;
+}
+.e1g
+{
+    margin-top:13px;
+}
+.e1g h4
+{
+    border-bottom:1px solid grey;
+    padding:10px;
+}
+.e1g p
+{
+    margin-top:10px;
+}
